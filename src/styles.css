@@ -1,0 +1,21 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+	width: 100%;
+	font-size: 62.5%;
+}
+
+.head1 {
+	font-size: 1.9rem;
+}
+
+.name1 {
+	font-size: 2rem;
+}
+.stats {
+	font-size: 1.6rem;
+}
+button {
+	color: white;
+	background-color: #d0021b;
+}
